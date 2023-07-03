@@ -6,7 +6,7 @@ require_once "templates/header.php";
     <div class="row align-items-center g-lg-5 py-5">
       <div class="col-lg-7 text-center text-lg-start">
         <h1 class="display-4 fw-bold lh-1 text-body-emphasis mb-3">Binvenue au Garage <span>V.Parrot</span></h1>
-        <p class="col-lg-10 fs-4">Réparation de la carrosserie et de la mécanique ainsi que de la vente de voiture d'occasion.</p>
+        <p class="col-lg-10 fs-4">Réparation carrosserie et mécanique ainsi que de la vente de voiture d'occasion.</p>
       </div>
       <div class="col-md-10 mx-auto col-lg-5">
         <form class="p-4 p-md-5 border rounded-3 bg-body-tertiary">
