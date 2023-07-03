@@ -34,3 +34,20 @@ h1 span {
     transform: translate(0px);
   }
 }
+
+.col-lg-7.text-center.text-lg-start p {
+  animation-name: paragraphe-titre;
+  animation-duration: 3s;
+}
+
+@keyframes paragraphe-titre {
+  0% {
+    opacity: 0;
+    transform: translate(100px);
+  }
+
+  100% {
+    opacity: 1;
+    transform: translate(0px);
+  }
+}
