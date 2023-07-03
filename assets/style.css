@@ -1,0 +1,36 @@
+.btn.btn-outline-primary.me-2 {
+  background-color: #d63031;
+  color: white;
+  border: none;
+}
+
+.btn.btn-primary {
+  background-color: #d63031;
+  color: white;
+  border: none;
+}
+
+.nav-link.px-2 {
+  color: #d63031;
+}
+
+h1 span {
+  color: #d63031;
+}
+
+.display-4.fw-bold.lh-1.text-body-emphasis.mb-3 {
+  animation-name: titre;
+  animation-duration: 3s;
+}
+
+@keyframes titre {
+  0% {
+    opacity: 0;
+    transform: translate(-100px);
+  }
+
+  100% {
+    opacity: 1;
+    transform: translate(0px);
+  }
+}
