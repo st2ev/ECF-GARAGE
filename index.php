@@ -1,36 +1,20 @@
 <?php
-require_once "templates/header.php";
+require_once __DIR__ . "/templates/header.php";
 ?>
 
-<div class="container col-xl-10 col-xxl-8 px-4 py-5">
-    <div class="row align-items-center g-lg-5 py-5">
-      <div class="col-lg-7 text-center text-lg-start">
-        <h1 class="display-4 fw-bold lh-1 text-body-emphasis mb-3">Binvenue au Garage <span>V.Parrot</span></h1>
-        <p class="col-lg-10 fs-4">Réparation carrosserie et mécanique ainsi que de la vente de voiture d'occasion.</p>
+<div class="container col-xxl-8 px-4 py-3">
+    <div class="row flex-lg-row-reverse align-items-center g-5 py-5 justify-content-center">
+      <div class="col-10 col-sm-8 col-lg-6">
+        <video autoplay muted loop src="assets/video/garage carrosserie.mp4" class="d-block mx-lg-auto img-fluid rounded" alt="Bootstrap Themes" width="700" height="500" loading="lazy">
       </div>
-      <div class="col-md-10 mx-auto col-lg-5">
-        <form class="p-4 p-md-5 border rounded-3 bg-body-tertiary">
-          <div class="form-floating mb-3">
-            <input type="pseudo" class="form-control" id="floatingInput" placeholder="AdminP">
-            <label for="floatingInput">Identifiant</label>
-          </div>
-          <div class="form-floating mb-3">
-            <input type="password" class="form-control" id="floatingPassword" placeholder="Password">
-            <label for="floatingPassword">Mot de passe</label>
-          </div>
-          <div class="checkbox mb-3">
-            <label>
-              <input type="checkbox" value="remember-me"> Se souvenir
-            </label>
-          </div>
-          <button class="w-100 btn btn-lg btn-danger" type="submit">Se Connecter</button>
-          <hr class="my-4">
-          <small class="text-body-secondary">En cliquant sur S'inscrire, vous acceptez les conditions d'utilisation.</small>
-        </form>
+      <div class="col-lg-6 text-center">
+        <h1 class="display-5 fw-bold text-body-emphasis lh-1 mb-3">Bienvenue chez <span>V.Parrot</span></h1>
+        <p class="lead">Nous sommes spécialisés dans la mécanique et la carrosserie. Nous prenons en charge tout type de réparation et entretiens sur n'importe quel modèle de voiture. Notre service et notre expértise de qualité vous combleront. Chez V;Parrot, votre sécurité et la performance de votre véhicule sont notre priorité.</p>
       </div>
     </div>
   </div>
 
+
 <?php
-require_once "templates/footer.php";
+require_once __DIR__ . "/templates/footer.php";
 ?>
