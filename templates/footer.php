@@ -4,12 +4,12 @@
 
             <div class="col-md-4 text-center my-3">
 				<h5 class="py-3 text-danger">Horaires</h5>
-				<p class="text-body-secondary"><strong>Lundi :</strong> 9h-12h | 14h-18h</p>
-				<p class="text-body-secondary"><strong>Mardi :</strong> 9h-12h | 14h-18h</p>
-                <p class="text-body-secondary"><strong>Mercredi :</strong> 10h-12h | 14h-18h</p>
-                <p class="text-body-secondary"><strong>Jeudi :</strong> 9h-12h | 14h-18h</p>
-                <p class="text-body-secondary"><strong>Vendredi :</strong> 9h-12h | 14h-18h</p>
-                <p class="text-body-secondary"><strong>Samedi :</strong> 10h-12h</p>
+				<p class="text-body-secondary"><strong>Lundi :</strong> 8h45-12h | 14h-18h</p>
+				<p class="text-body-secondary"><strong>Mardi :</strong> 8h45-12h | 14h-18h</p>
+                <p class="text-body-secondary"><strong>Mercredi :</strong> 8h45-12h | 14h-18h</p>
+                <p class="text-body-secondary"><strong>Jeudi :</strong> 8h45-12h | 14h-18h</p>
+                <p class="text-body-secondary"><strong>Vendredi :</strong> 8h45-12h | 14h-18h</p>
+                <p class="text-body-secondary"><strong>Samedi :</strong> 8h45-12h</p>
                 <p class="text-body-secondary"><strong>Dimanche :</strong> Fermé</p>
 			</div>
 
